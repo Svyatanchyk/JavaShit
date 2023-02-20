@@ -1,4 +1,4 @@
-package com.example.fuckingslave;
+package com.example.myjavaproject;
 
 import java.util.*;
 
