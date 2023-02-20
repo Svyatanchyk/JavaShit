@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainApplication {
-
+//test
     static public void main(String[] args) {
         Conference conference = new Conference();
 
